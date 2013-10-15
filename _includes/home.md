@@ -1,5 +1,7 @@
 # Documentation Utilisateur Magento CE 1.7 #
 
+**ATTENTION: Ce document est encore en cours de rédaction, n'hésitez pas à contribuer !**
+
 Librement adaptée du User Guide Magento officiel en anglais à l'usage des exploitants disposant d'une boutique installée et fonctionnelle.
 
 Des chapitres entiers du User Guide Magento officiel ont donc été ignorés. L'objectif est uniquement d'aider les exploitants à utiliser l'administration de Magento.
